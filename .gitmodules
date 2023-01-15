@@ -1,0 +1,3 @@
+[submodule "lesson1"]
+	path = lesson1
+	url = git@github.com:achilleasoft-ryo-oyama/android_lesson1.git
