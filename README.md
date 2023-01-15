@@ -4,6 +4,6 @@
 
 # 目次
 - lesson1
-  - HelloWorldをvirtual deviceで表示させよう
-  - HelloWorldをHelloAndroidに書き換えよう
-  - HelloAndroidの下にsendと書いたボタンを設置しよう
+  - Hello Worldをvirtual deviceで表示させよう
+  - Hello WorldをHello Androidに書き換えよう
+  - Hello Androidの下にsendと書いたボタンを設置しよう
