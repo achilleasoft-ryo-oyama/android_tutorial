@@ -7,3 +7,4 @@
   - Hello Worldをvirtual deviceで表示させよう
   - Hello WorldをHello Androidに書き換えよう
   - Hello Androidの下にsendと書いたボタンを設置しよう
+  - 2画面目を作成しよう
