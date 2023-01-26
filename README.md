@@ -8,3 +8,5 @@
   - Hello WorldをHello Androidに書き換えよう
   - Hello Androidの下にsendと書いたボタンを設置しよう
   - 2画面目を作成しよう
+  - 画面間の値を渡そう
+  - 1画面目の入力フォームに入れたデータを永続化しよう
